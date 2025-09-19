@@ -1,1 +1,1 @@
-![Insight](./DT_IMGDATA/Insight.png)
+![Insight](../DT_IMGDATA/Insight.png)
