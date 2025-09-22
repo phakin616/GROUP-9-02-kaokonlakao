@@ -13,6 +13,12 @@
 ![PoV](DT_IMGDATA/POV.png)
 ![EmpathyMap](DT_IMGDATA/EmpathyMap.png)
 ![JourneyMap](DT_IMGDATA/JourneyMap.png)
+# PROTOTYPE
+![Prototype](DT_IMGDATA/Bin_Next.jpg)
+# Feature
+1.ทำจากสแตนเลทน้ำหนักเบาไม่เป็นสนิม<Br>
+2.ถอดล้างทำความสะอาดง่าย<Br>
+3.ระบบล็ฮคติดแบบสุญญากาศทำให้ติดตั้งง่ายไม่สร้างความเสียหายต่อพื้นที่<Br><Br>
 ![TestScrip](DT_IMGDATA/Script.png)
 ![Story Telling And Story Board](DT_IMGDATA/StoryTellingAndStoryBoard.png)
 ![Feedback](DT_IMGDATA/Feedback.png)
