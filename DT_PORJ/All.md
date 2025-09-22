@@ -31,7 +31,7 @@
 นำข้อมูลใส่ในGithub,ออกแบบ Prototype,ทำสไลด์,Persono
 # นายก้องภพ ก้อนทรัพย์ 
 ลงพื้นที่เก็บแบบสำรวจ,เก็บFeedBack,ทำสไลด์,Testscrip,Feedback,What How Why
-# นางสาวพัชรศร ปันปิน 
+# นางสาวพัชรศร ปันปิน 68130500135
 ตั้งคำถามสำหรับถาม,ทำสไลด์Ideate,ทำสไลด์,Mode Issuse,Nextstep
 # นายภาคิณ ชวาลปัญญา 68130500127
 ลงพื้นที่เก็บแบบสำรวจ,เก็บFeedBack,ทำสไลด์,Testscrip,Feedback,PoV
