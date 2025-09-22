@@ -25,7 +25,7 @@
 ![ModeIssue](DT_IMGDATA/ModeIssue.png)
 ![NextStep](DT_IMGDATA/NextStep.png)
 
-# นายธนวิชญ์ จันทวงค์ 
+# นายธนวิชญ์ จันทวงค์ 68130500124
 ตั้งคำถามสำหรับถาม,ทำสไลด์,Empathy,JourneyMap,Insight
 # นายอธิฐาน เสนผาบ 68130500078
 นำข้อมูลใส่ในGithub,ออกแบบ Prototype,ทำสไลด์,Persono
