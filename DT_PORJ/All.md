@@ -24,3 +24,17 @@
 ![Feedback](DT_IMGDATA/Feedback.png)
 ![ModeIssue](DT_IMGDATA/ModeIssue.png)
 ![NextStep](DT_IMGDATA/NextStep.png)
+
+# นายธนวิชญ์ จันทวงค์ 
+ตั้งคำถามสำหรับถาม,ทำสไลด์,Empathy,JourneyMap,Insight
+# นายอธิฐาน เสนผาบ 68130500078
+นำข้อมูลใส่ในGithub,ออกแบบ Prototype,ทำสไลด์,Persono
+# นายก้องภพ ก้อนทรัพย์ 
+ลงพื้นที่เก็บแบบสำรวจ,เก็บFeedBack,ทำสไลด์,Testscrip,Feedback,What How Why
+# นางสาวพัชรศร ปันปิน 
+ตั้งคำถามสำหรับถาม,ทำสไลด์Ideate,ทำสไลด์,Mode Issuse,Nextstep
+# นายภาคิณ ชวาลปัญญา 
+ลงพื้นที่เก็บแบบสำรวจ,เก็บFeedBack,ทำสไลด์,Testscrip,Feedback,PoV
+# นายศุภกฤษฏิ์ อ่วมศิริ 
+พรีเซนต์นำเสนอผลงาน,คลีนข้อมูล,ทำสไลด์,Mode Issuse,Nextstep
+
