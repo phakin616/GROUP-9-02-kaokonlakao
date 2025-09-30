@@ -1,6 +1,6 @@
 # Story Telling and Story Board
 ## Story Board
-![Story Telling And Story Board](../DT_IMGDATA/StoryTellingAndStoryBoard.png)
+<img src="../DT_IMGDATA/StoryTellingAndStoryBoard.png" width="400">
 
 ## Story Telling
 1.รอกลุ่มเป้าหมายเข้าห้องน้ำ <br>
